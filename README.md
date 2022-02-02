@@ -1,4 +1,4 @@
-# Secure_password_generator
+# Secure password generator
 ###### Made on [the course from Stepik](https://stepik.org/course/58852/info)
 
 ### Описание проекта "Генератор безопасных паролей": 
